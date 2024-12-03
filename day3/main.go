@@ -9,7 +9,7 @@ import (
 )
 
 func main() {
-	//partOne()
+	partOne()
 	partTwo()
 }
 
